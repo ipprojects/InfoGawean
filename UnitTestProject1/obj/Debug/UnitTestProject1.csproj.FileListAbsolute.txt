@@ -1,0 +1,14 @@
+D:\Home\OneDrive\Fogged\PlayGround\Programming\VisualStudio 2013\InfoGawean\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Home\OneDrive\Fogged\PlayGround\Programming\VisualStudio 2013\InfoGawean\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Home\OneDrive\Fogged\PlayGround\Programming\VisualStudio 2013\InfoGawean\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Home\OneDrive\Fogged\PlayGround\Programming\VisualStudio 2013\InfoGawean\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Home\OneDrive\Fogged\PlayGround\Programming\VisualStudio 2013\InfoGawean\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\Home\OneDrive\Fogged\PlayGround\Programming\VisualStudio 2013\InfoGawean\UnitTestProject1\bin\Debug\InfoGawean.exe
+D:\Home\OneDrive\Fogged\PlayGround\Programming\VisualStudio 2013\InfoGawean\UnitTestProject1\bin\Debug\InfoGawean.pdb
+D:\Home\OneDrive\Programming\VisualStudio 2013\InfoGawean\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Home\OneDrive\Programming\VisualStudio 2013\InfoGawean\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Home\OneDrive\Programming\VisualStudio 2013\InfoGawean\UnitTestProject1\bin\Debug\InfoGawean.exe
+D:\Home\OneDrive\Programming\VisualStudio 2013\InfoGawean\UnitTestProject1\bin\Debug\InfoGawean.pdb
+D:\Home\OneDrive\Programming\VisualStudio 2013\InfoGawean\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Home\OneDrive\Programming\VisualStudio 2013\InfoGawean\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Home\OneDrive\Programming\VisualStudio 2013\InfoGawean\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
